@@ -56,6 +56,8 @@ src: [Science Direct: Y. Sapir, ... C. Holzapfel, in Encyclopedia of Ecology, 20
 
 ## Cinchono
 
+Cinchona officinalis
+
 เปลือกใช้ทำ Quinine
 
 
