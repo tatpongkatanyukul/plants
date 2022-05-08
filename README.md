@@ -41,3 +41,5 @@ src: [Science Direct: Y. Sapir, ... C. Holzapfel, in Encyclopedia of Ecology, 20
 ก้านยาว | 187 | 35.1 | 4.1 | 2.5 | 18 | 36 | 0.8 | 22 | 1.7 | 34 |
 ชะนี | 148 | 24.7 | 4.4 | 2.5 | 8 | 35 | 1.1 | 41 | 2.4 | 28 |
 หมอนทอง | 163 | 31.2 | 3.3 | 2.1 | 29 | 34 | 1.1 | 8 | 1.4 | 35 |
+
+[ยีน (มูซันคิง)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA400310)
