@@ -60,5 +60,7 @@ Cinchona officinalis
 
 เปลือกใช้ทำ Quinine
 
+## ทองหลาง
 
+ทองหลางน้ำ (ทองหลางกินใบ) Erythrina fusca
 
