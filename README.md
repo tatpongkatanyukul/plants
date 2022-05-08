@@ -1,8 +1,9 @@
 # Plants
 
-  * (1) dioecy, in which individuals bear only male or only female flowers throughout their life spans; 
+  * (1) [dioecy](https://www.frontiersin.org/articles/10.3389/fpls.2020.580488/full), in which individuals bear only male or only female flowers throughout their life spans; 
   * (2) monoecy, in which individual plants bear separate male (staminate) and female (pistillate) flowers; and 
   * (3) hermaphroditism or cosexuality, in which individual plants bear bisexual (perfect) flowers.
+src: [Science Direct: Y. Sapir, ... C. Holzapfel, in Encyclopedia of Ecology, 2008](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/monoecy#:~:text=The%20categories%20are%20(1)%20dioecy,individual%20plants%20bear%20bisexual%20(perfect))
 
 ![Dioecy](https://github.com/tatpongkatanyukul/plants/raw/main/images/sciencedirect_topics.jpg)
 
