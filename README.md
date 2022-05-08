@@ -1,9 +1,15 @@
 # plants
 
-| พืช    | 
-| ---   |
+  * (1) dioecy, in which individuals bear only male or only female flowers throughout their life spans; 
+  * (2) monoecy, in which individual plants bear separate male (staminate) and female (pistillate) flowers; and 
+  * (3) hermaphroditism or cosexuality, in which individual plants bear bisexual (perfect) flowers.
+
+![Dioecy]()
+
+| พืช    | sci. name | dioecy | 
+| ---   |---   |---   |
 | ข้าว   | Oryza sativa |
-| ทุเรียน | Durio zibethinus |
+| ทุเรียน | Durio zibethinus | monoecious
 | ขนุน  |
 | มะม่วง |
 | มะยงชิด |
