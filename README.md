@@ -4,7 +4,7 @@
   * (2) monoecy, in which individual plants bear separate male (staminate) and female (pistillate) flowers; and 
   * (3) hermaphroditism or cosexuality, in which individual plants bear bisexual (perfect) flowers.
 
-![Dioecy]()
+![Dioecy](https://github.com/tatpongkatanyukul/plants/raw/main/images/sciencedirect_topics.jpg)
 
 | พืช    | sci. name | dioecy | 
 | ---   |---   |---   |
