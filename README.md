@@ -9,9 +9,9 @@ src: [Science Direct: Y. Sapir, ... C. Holzapfel, in Encyclopedia of Ecology, 20
 
 | พืช    | sci. name | dioecy | 
 | ---   |---   |---   |
-| ข้าว   | Oryza sativa |
-| ทุเรียน | Durio zibethinus | monoecious
-| ขนุน  |
+| ข้าว   | Oryza sativa | monoecious |
+| ทุเรียน | Durio zibethinus | monoecious |
+| ขนุน  | Artocarpus heterophyllus |
 | มะม่วง |
 | มะยงชิด |
 | ยางพารา |
