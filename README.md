@@ -1,4 +1,4 @@
-# plants
+# Plants
 
   * (1) dioecy, in which individuals bear only male or only female flowers throughout their life spans; 
   * (2) monoecy, in which individual plants bear separate male (staminate) and female (pistillate) flowers; and 
