@@ -53,6 +53,8 @@ src: [Science Direct: Y. Sapir, ... C. Holzapfel, in Encyclopedia of Ecology, 20
 
 * [การจัดการผลิตทุเรียน](https://www.opsmoac.go.th/pattani-manual-files-431091791859)
 
+* [คู่มือทุเรียนเพื่อการส่งออก](http://www.thai-explore.net/file_upload/submitter/file_upload/q8vcqpJXokbmnlHypkR349d68ee.pdf)
+
 ## ยางพารา
 
 ## ยางนา
