@@ -55,6 +55,9 @@ src: [Science Direct: Y. Sapir, ... C. Holzapfel, in Encyclopedia of Ecology, 20
 
 * [คู่มือทุเรียนเพื่อการส่งออก](http://www.thai-explore.net/file_upload/submitter/file_upload/q8vcqpJXokbmnlHypkR349d68ee.pdf)
 
+* [Durian manual](https://esc.doae.go.th/wp-content/uploads/2021/06/Durian.pdf)
+
+
 ## ยางพารา
 
 ## ยางนา
