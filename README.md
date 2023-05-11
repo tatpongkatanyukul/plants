@@ -51,6 +51,8 @@ src: [Science Direct: Y. Sapir, ... C. Holzapfel, in Encyclopedia of Ecology, 20
 
 * [การดูแลทุเรียน](https://www.doa.go.th/hort/wp-content/uploads/2020/01/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%97%E0%B8%B8%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99.pdf)
 
+* [การจัดการผลิตทุเรียน](https://www.opsmoac.go.th/pattani-manual-files-431091791859)
+
 ## ยางพารา
 
 ## ยางนา
