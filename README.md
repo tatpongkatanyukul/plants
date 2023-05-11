@@ -45,6 +45,10 @@ src: [Science Direct: Y. Sapir, ... C. Holzapfel, in Encyclopedia of Ecology, 20
 [ยีน (มูซันคิง)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA400310)
   * 44,795 ยีน (63,007 โปรตีน)
 
+### ศึกษา
+
+[คู่มือ 12 ขั้นตอนทุเรียน](https://anyflip.com/fqybr/hsrj)
+
 ## ยางพารา
 
 ## ยางนา
